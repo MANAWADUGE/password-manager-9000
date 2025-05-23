@@ -125,13 +125,9 @@ See [`LICENSE`](LICENSE) for more information.
 
 ## 🙏 Acknowledgments
 
-* Built with 💻 and ❤️ by [rovindu404](https://github.com/rovindu404)
+* Built with ❤️ by [rovindu404](https://github.com/rovindu404)
 * Inspired by the need for terminal-native, private password management
 
 ---
 
-🔐 Stay safe, stay secure — with **Password Manager 9000**
 
-```
-
----
