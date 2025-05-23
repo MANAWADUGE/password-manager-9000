@@ -25,7 +25,7 @@ Welcome to **Password Manager 9000** — the last password manager you'll ever n
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/MANAWADUGE/password-manager-9000.git
+git clone https://github.com/rovindu404/password-manager-9000.git
 cd password-manager-9000
 ````
 
@@ -125,7 +125,7 @@ See [`LICENSE`](LICENSE) for more information.
 
 ## 🙏 Acknowledgments
 
-* Built with 💻 and ❤️ by [MANAWADUGE](https://github.com/MANAWADUGE)
+* Built with 💻 and ❤️ by [rovindu404](https://github.com/rovindu404)
 * Inspired by the need for terminal-native, private password management
 
 ---
